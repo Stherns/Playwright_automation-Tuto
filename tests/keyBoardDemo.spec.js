@@ -22,5 +22,5 @@ test('Handling Real Time Slider Demo2', async({page}) => {
     await page.keyboard.press('Backspace');
     await page.close() 
 
-    // Result text will end up saying 'Hello!'
+    // Result text will end up saying 'Hello!' 
 })
