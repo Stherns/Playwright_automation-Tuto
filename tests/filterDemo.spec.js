@@ -14,4 +14,4 @@ test('Lauch Application', async({page}) => {
         .click()
 
     await page.locator('//*[@class="shopping_cart_link"]').click() 
-})
+}) 
