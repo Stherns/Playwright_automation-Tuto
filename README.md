@@ -203,6 +203,6 @@ npx playwright show-report
 
 ## 📄 Licence
 
-Licence MIT (modifiable selon ton choix)
+Licence MIT
 
 ---
